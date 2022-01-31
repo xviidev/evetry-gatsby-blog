@@ -51,6 +51,6 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "postinstall": "node ./bin/hello.js",
-    "setup": "node ./bin/setup.js",
+    "setup": "node ./bin/setup.js"
   }
 }
