@@ -1,5 +1,5 @@
 {
-  "name": "contentful-starter-gatsby-blog",
+  "name": "gatsby-blog",
   "description": "Contentful Gatsby Starter Blog",
   "private": true,
   "version": "0.0.1",
@@ -15,6 +15,7 @@
     "gatsby-source-contentful": "^6.1.4",
     "gatsby-transformer-remark": "^5.0.0",
     "gatsby-transformer-sharp": "^4.0.0",
+    "inquirer": "^8.2.0",
     "lodash": "^4.17.21",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -24,11 +25,8 @@
     "@tailwindcss/typography": "^0.5.1",
     "autoprefixer": "^10.4.2",
     "contentful-import": "^7.8.6",
-    "eslint": "^8.7.0",
-    "eslint-config-react-app": "^7.0.0",
     "gatsby-plugin-postcss": "^5.5.0",
     "postcss": "^8.4.5",
-    "prettier": "2.5.1",
     "tailwindcss": "^3.0.15"
   },
   "engines": {
