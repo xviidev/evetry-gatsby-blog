@@ -99,9 +99,12 @@ inquirer
   )
   .then((_, error) => {
     console.log(
-      `Berhasil! Sekarang jalankan ${chalk.yellow(
+      `
+      
+      
+      ${chalk.green.bold("Berhasil! Sekarang jalankan")} ${chalk.yellow(
         "npm run dev"
-      )} dan liat hasilnya 🔥🔥.`
+      )} ${chalk.green.bold("dan liat hasilnya 🔥🔥.")}`
     );
   })
   .catch((error) => console.error(error));
