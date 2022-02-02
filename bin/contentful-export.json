@@ -619,7 +619,7 @@
           }
         },
         "description": {
-          "en-US": "Ini adalah postingan pertama kamu. Silahkan edit atau hapus postingan ini melalui dashboard C"
+          "en-US": "Ini adalah postingan pertama kamu. Silahkan edit atau hapus postingan ini melalui dashboard Contentful"
         },
         "body": {
           "en-US": "Ini adalah postingan pertama kamu. Silahkan buka [__https://app.contentful.com__](https://app.contentful.com) >> __Content__, dan edit postingan ini."
